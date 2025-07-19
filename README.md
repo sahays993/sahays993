@@ -23,19 +23,19 @@
 ## 💻 Tech Stack
 
 ### Languages & Frameworks:
-`Python` `C++` `JavaScript` `HTML/CSS`  
-`React.js` `Node.js` `Flutter` `Express.js`
+`Python` `Java` `JavaScript` `HTML/CSS`  
+`React.js` `Node.js` `Flutter` `Express.js` `Typescript`
 
 ### AI/ML & Data Science:
 `NumPy` `Pandas` `Scikit-learn` `TensorFlow`  
-`OpenCV` `Matplotlib` `Seaborn` `XAI (SHAP, LIME)`
+`OpenCV` `Matplotlib` `Seaborn`
 
 ### Tools & Platforms:
 `Git` `GitHub` `VSCode` `Google Colab`  
 `Firebase` `MySQL` `Postman` `Jupyter Notebooks`
 
 ### Dev & Creative Tools:
-`Figma` `Canva` `Photoshop` `Premiere Pro`
+`Figma` `Canva` `Photoshop` `Premiere Pro` `Blender`
 
 ---
 
